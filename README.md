@@ -20,7 +20,6 @@ Este é um projeto desenvolvido durante a **Imersão Frontend da Alura**, onde r
    ```  
 2. Acesse a pasta do projeto:  
    ```bash
-   ImersaoFrontEndAlura-2-Edicao.git
+   cd ImersaoFrontEndAlura-2-Edicao
    ```  
 3. Abra o arquivo `index.html` no navegador  
-
