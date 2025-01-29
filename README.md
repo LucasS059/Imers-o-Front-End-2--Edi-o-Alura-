@@ -16,11 +16,11 @@ Este é um projeto desenvolvido durante a **Imersão Frontend da Alura**, onde r
 ### 📂 Como executar o projeto  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LucasS059/ImersaoFrontEndAlura-2-Edicao.git
    ```  
 2. Acesse a pasta do projeto:  
    ```bash
-   cd nome-do-projeto
+   ImersaoFrontEndAlura-2-Edicao.git
    ```  
 3. Abra o arquivo `index.html` no navegador  
 
